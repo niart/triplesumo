@@ -1,4 +1,4 @@
-# triplesumo_cog
+# triplesumo_TAROS
 learning to cooperate!!!!
 dependencies: python==3.7, Gym==10.2, Mujoco>=2.0
 After you install gym, please replace it with the folder "gym" on my repository. 
