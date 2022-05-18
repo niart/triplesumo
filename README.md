@@ -9,4 +9,4 @@ The reward function is in triant.py
 The training algorithm is DDPG4.py in "train bug"
 
 Please don't share the code so far. I have not yet studied the license yet. I'm unsure if it's fine to use Gym and DDPG in this way.
-https://github.com/niart/triplesumo_TAROS/blob/main/25_35.gif
+![](https://github.com/niart/triplesumo_TAROS/blob/main/25_35.gif)
