@@ -1,5 +1,5 @@
 # triplesumo_TAROS
-learning to cooperate!!!!
+learning to cooperate in multi-agent adversarial games.
 dependencies: python==3.7, Gym==10.2, Mujoco>=2.0
 After you install gym, please replace it with the folder "gym" on my repository. 
 Clone the folder "train bug" onto your local PC, cd into it, and "python runmain2.py"
