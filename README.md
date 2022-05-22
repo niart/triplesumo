@@ -1,6 +1,6 @@
 # triplesumo_TAROS
 Learning to cooperate in multi-agent adversarial games.
-This project is based on the idea of "Robosumo" (https://github.com/openai/robosumo) and extends it to a multi-player sumo game.
+This project is based on the idea of platform "Robosumo" (https://github.com/openai/robosumo) and extends it to a multi-player sumo game.
 dependencies: python==3.7, Gym==10.2, Mujoco>=2.0
 After you install gym, please replace folder "gym" with the folder "gym" on this repository. 
 Clone the folder "train bug" onto your local PC, cd into it, and "python runmain2.py"
