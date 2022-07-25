@@ -1,5 +1,5 @@
-# triplesumo_TAROS
-Learning to cooperate in multi-agent adversarial games.
+TripleSumo, a virtual multi-agent RL platform
+Learning cooperative behaviours in adversarial multi-agent systems
 This project is based on the idea of platform "Robosumo" (https://github.com/openai/robosumo) and extends it to a 3-player sumo game. 
 
 Dependencies: python==3.7, Gym==10.2, Mujoco>=2.0
