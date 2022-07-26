@@ -20,4 +20,8 @@ Train the newly added agent with DDPG:
 
 <img src="https://github.com/niart/triplesumo/blob/main/3rewards.png" width=50% height=50%>
 
+Wining rate of the team during training and testing:
+
+<img src="https://github.com/niart/triplesumo/blob/main/hybrid_rate.png" width=50% height=50%>
+
 
