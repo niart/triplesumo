@@ -11,8 +11,11 @@ The reward function is in triant.py
 The training algorithm is DDPG4.py in "train bug"
 
 ![](https://github.com/niart/triplesumo_TAROS/blob/main/25_35.gif)
+
 An overview of TripleSumo game:
+
 <img src="https://github.com/niart/triplesumo/blob/main/triple.png" width=50% height=50%>
+
 Train the newly added agent with DDPG:
 <img src="https://github.com/niart/triplesumo/blob/main/3rewards.png" width=50% height=50%>
 
