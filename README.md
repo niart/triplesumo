@@ -13,4 +13,4 @@ The training algorithm is DDPG4.py in "train bug"
 ![](https://github.com/niart/triplesumo_TAROS/blob/main/25_35.gif)
 ![](https://github.com/niart/triplesumo/blob/main/3rewards.png)| width=100)
 
-![alt text](https://github.com/niart/triplesumo/blob/main/3rewards.png | width=50)
+![alt text](https://github.com/niart/triplesumo/blob/main/3rewards.png)
