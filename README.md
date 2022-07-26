@@ -15,3 +15,9 @@ The training algorithm is DDPG4.py in "train bug"
 ![alt text](https://github.com/niart/triplesumo/blob/main/triple.png?raw=true)
 
 ![alt text](https://github.com/niart/triplesumo/blob/main/3rewards.png?raw=true)
+
+<img
+  src="https://github.com/niart/triplesumo/blob/main/3rewards.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
