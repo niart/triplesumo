@@ -24,4 +24,9 @@ Wining rate of the team during training and testing:
 
 <img src="https://github.com/niart/triplesumo/blob/main/hybrid_rate.png" width=50% height=50%>
 
+Steps needed to win:
+
+
+<img src="https://github.com/niart/triplesumo/blob/main/steps.png" width=50% height=50%>
+
 
