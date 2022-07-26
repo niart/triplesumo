@@ -2,7 +2,7 @@
 ## a virtual multi-agent RL platform based on OpenAI/Gym and Mujoco
 ### This platform is used in paper [Learning cooperative behaviours in adversarial multi-agent systems](https://drive.google.com/file/d/1iMsChn39gMRzBLah0l_dFVXwbCHgOl2q/view?usp=sharing)
 
-This project is an extension of platform "Robosumo" (https://github.com/openai/robosumo) with new interfaces. 
+This project is an extension of platform [Robosumo](https://github.com/openai/robosumo) with new interfaces. 
 
 Dependencies: python==3.7, Gym==10.2, Mujoco>=2.0
 After you install gym, please replace folder "gym" with the folder "gym" on this repository. 
