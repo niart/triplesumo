@@ -1,4 +1,5 @@
-TripleSumo, a virtual multi-agent RL platform
+TripleSumo, a virtual multi-agent RL platform based on OpenAI/Gym and Mujoco
+
 Learning cooperative behaviours in adversarial multi-agent systems
 This project is an extension of platform "Robosumo" (https://github.com/openai/robosumo) with new interfaces. 
 
