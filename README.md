@@ -17,6 +17,7 @@ An overview of TripleSumo game:
 <img src="https://github.com/niart/triplesumo/blob/main/triple.png" width=50% height=50%>
 
 Train the newly added agent with DDPG:
+
 <img src="https://github.com/niart/triplesumo/blob/main/3rewards.png" width=50% height=50%>
 
 
