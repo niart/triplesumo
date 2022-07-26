@@ -1,4 +1,4 @@
-# TripleSumo, a virtual multi-agent RL platform based on OpenAI/Gym and Mujoco
+# TripleSumo, ## a virtual multi-agent RL platform based on OpenAI/Gym and Mujoco
 ## Learning cooperative behaviours in adversarial multi-agent systems:
 
 https://drive.google.com/file/d/1iMsChn39gMRzBLah0l_dFVXwbCHgOl2q/view?usp=sharing
