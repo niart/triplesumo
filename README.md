@@ -11,3 +11,5 @@ The reward function is in triant.py
 The training algorithm is DDPG4.py in "train bug"
 
 ![](https://github.com/niart/triplesumo_TAROS/blob/main/25_35.gif)
+
+![alt text](https://github.com/niart/triplesumo/blob/main/triple.png?raw=true)
