@@ -1,3 +1,19 @@
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+
+Alternatively, for H1 and H2, an underline-ish style:
+
+Alt-H1
+======
+
+Alt-H2
+------
+
+
 TripleSumo, a virtual multi-agent RL platform based on OpenAI/Gym and Mujoco
 
 Learning cooperative behaviours in adversarial multi-agent systems:
