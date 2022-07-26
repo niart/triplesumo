@@ -20,4 +20,4 @@ The training algorithm is DDPG4.py in "train bug"
   src="https://github.com/niart/triplesumo/blob/main/3rewards.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 100px">
+  style="display: inline-block; margin: 0 auto; max-width: 20px">
