@@ -1,7 +1,8 @@
 # TripleSumo, 
 ## a virtual multi-agent RL platform based on OpenAI/Gym and Mujoco. 
 ### This game is introduced in publication [Learning Cooperative Behaviours in Adversarial Multi-agent Systems](https://link.springer.com/chapter/10.1007/978-3-031-15908-4_15)([full text](https://drive.google.com/file/d/1gAvAhV5qtRpQqhONvBASjzIKGk6CeWje/view?usp=sharing)).
-A live demo of this game can be found in **[This Video](https://www.youtube.com/watch?v=egSRK1eWnf4](https://www.youtube.com/watch?v=qSSW6TypXdQ&t=100s)**. You're welcome to visit the **[author's Youtube page](https://www.youtube.com/@intelligentautonomoussyste5467/videos)** to find more about her work. Contact her at **niwang.cs@gmail.com** if you have inquiry.
+A live demo of this game can be found in **[This Video](https://www.youtube.com/watch?v=qSSW6TypXdQ&t=100s)**. 
+You're welcome to visit the **[author's Youtube page](https://www.youtube.com/@intelligentautonomoussyste5467/videos)** to find more about her work. Contact her at **niwang.cs@gmail.com** if you have inquiry.
 
 This project is an extension of platform [Robosumo](https://github.com/openai/robosumo) with new interfaces. 
 
