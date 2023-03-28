@@ -1,10 +1,10 @@
 # TripleSumo:
-## a virtual multi-agent RL platform based on OpenAI/Gym and Mujoco. 
+## a virtual multi-agent RL platform based on OpenAI/Gym and Mujoco [^1]
 <p align="center">
   <img src="https://github.com/niart/triplesumo/blob/5aea698826bd43a1afe0cbc8df33fb350a847333/25_35.gif" alt="animated" />
 </p>
 
-#### This game is introduced in publication [Learning Cooperative Behaviours in Adversarial Multi-agent Systems](https://link.springer.com/chapter/10.1007/978-3-031-15908-4_15) (view [full text](https://drive.google.com/file/d/1gAvAhV5qtRpQqhONvBASjzIKGk6CeWje/view?usp=sharing)). This project is an extension of platform [Robosumo](https://github.com/openai/robosumo) with new interfaces. 
+#### This game is introduced in publication [Learning Cooperative Behaviours in Adversarial Multi-agent Systems](https://link.springer.com/chapter/10.1007/978-3-031-15908-4_15) (view [full text](https://drive.google.com/file/d/1gAvAhV5qtRpQqhONvBASjzIKGk6CeWje/view?usp=sharing)). 
 
 Demo of results:
 
@@ -40,7 +40,7 @@ An overview of TripleSumo interface:
 <p align="center">
 <img src="https://github.com/niart/triplesumo/blob/main/triple.png" width=50% height=50%>
 </p>
-Rewards along training the newly added agent with DDPG:
+Rewards along training the newly added player with DDPG:
 <p align="center">
 <img src="https://github.com/niart/triplesumo/blob/main/3rewards.png" width=50% height=50%>
 </p>
@@ -48,8 +48,10 @@ Wining rate of the team(red+blue) during training and testing:
 <p align="center">
 <img src="https://github.com/niart/triplesumo/blob/main/hybrid_rate.png" width=50% height=50%>
 </p>
-Steps the team needed to win:
+Steps the team needed to win along training the newly added player:
 <p align="center">
 <img src="https://github.com/niart/triplesumo/blob/main/steps.png" width=50% height=50%>
 </p>
+
+[^1]This project is an extension of platform [Robosumo](https://github.com/openai/robosumo) with new interfaces. 
 
