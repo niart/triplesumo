@@ -53,5 +53,5 @@ Steps the team needed to win along training the newly added player:
 <img src="https://github.com/niart/triplesumo/blob/main/steps.png" width=50% height=50%>
 </p>
 
-[^1]This project is an extension of platform [Robosumo](https://github.com/openai/robosumo) with new interfaces. 
+[^1]: This project is an extension of platform [Robosumo](https://github.com/openai/robosumo) with new interfaces. 
 
