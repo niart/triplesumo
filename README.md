@@ -4,7 +4,7 @@
   <img src="https://github.com/niart/triplesumo/blob/5aea698826bd43a1afe0cbc8df33fb350a847333/25_35.gif" alt="animated" />
 </p>
 
-#### This game is introduced in publication [Learning Cooperative Behaviours in Adversarial Multi-agent Systems](https://link.springer.com/chapter/10.1007/978-3-031-15908-4_15) ([full text](https://drive.google.com/file/d/1gAvAhV5qtRpQqhONvBASjzIKGk6CeWje/view?usp=sharing)). This game aims to establish a virtual environment for intestivating multi-agent cooperation in physical contact-rich adversarial environment. In this game, two week players are supposed to team up and play against a strong player in sumo game. 
+#### This game is introduced in publication [Learning Cooperative Behaviours in Adversarial Multi-agent Systems](https://link.springer.com/chapter/10.1007/978-3-031-15908-4_15) ([full text](https://drive.google.com/file/d/1gAvAhV5qtRpQqhONvBASjzIKGk6CeWje/view?usp=sharing)). This game aims to establish a virtual environment for intestivating multi-agent cooperation in physical contact-rich adversarial environment, with reinforcement learning interface ported to OpenAI/Gym. In this game, two week players are supposed to team up and play against a strong player in sumo game. 
 
 Demo of results:
 
