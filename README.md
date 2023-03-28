@@ -37,19 +37,19 @@ If you want to cite this game:
 ```  
 
 An overview of TripleSumo interface:
-
+<p align="center">
 <img src="https://github.com/niart/triplesumo/blob/main/triple.png" width=50% height=50%>
-
+</p>
 Rewards along training the newly added agent with DDPG:
-
+<p align="center">
 <img src="https://github.com/niart/triplesumo/blob/main/3rewards.png" width=50% height=50%>
-
+</p>
 Wining rate of the team(red+blue) during training and testing:
-
+<p align="center">
 <img src="https://github.com/niart/triplesumo/blob/main/hybrid_rate.png" width=50% height=50%>
-
+</p>
 Steps the team needed to win:
-
+<p align="center">
 <img src="https://github.com/niart/triplesumo/blob/main/steps.png" width=50% height=50%>
-
+</p>
 
