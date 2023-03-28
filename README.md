@@ -27,8 +27,8 @@ Steps of installing triplesumo:
 7. If you meet error ```Creating window glfw ... ERROR: GLEW initalization error: Missing GL version```, you may add ```export LD_PRELOAD=/usr/lib/x86_64-linux-gnu/libGLEW.so``` to ```~/.bashrc```, then ```source ~/.bashrc```. 
 
 key algorithm:
-The reward function is in gym/envs/mojuco/triant.py
-The training algorithm is in train_bug/DDPG4.py
+The reward function is in ```gym/envs/mojuco/triant.py```;
+The training algorithm is in ```train_bug/DDPG4.py```.
 
 If you want to cite this game:
 ```
