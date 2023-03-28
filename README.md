@@ -5,7 +5,7 @@
 </p>
 
 #### This game is introduced in publication [Learning Cooperative Behaviours in Adversarial Multi-agent Systems](https://link.springer.com/chapter/10.1007/978-3-031-15908-4_15)
-(view [full text](https://drive.google.com/file/d/1gAvAhV5qtRpQqhONvBASjzIKGk6CeWje/view?usp=sharing)).
+(view [full text](https://drive.google.com/file/d/1gAvAhV5qtRpQqhONvBASjzIKGk6CeWje/view?usp=sharing)). This project is an extension of platform [Robosumo](https://github.com/openai/robosumo) with new interfaces. 
 
 Demo of results:
 
@@ -16,7 +16,6 @@ The result **[after training both the green and red agents for fighting](https:/
 The result **[after training the blue agent to join the ongoing game](https://www.youtube.com/watch?v=qSSW6TypXdQ&t=100s)**. 
 
 You're welcome to visit the **[author's Youtube page](https://www.youtube.com/@intelligentautonomoussyste5467/videos)** to find more about her work. Contact her at **niwang.cs@gmail.com** if you have inquiry.
-This project is an extension of platform [Robosumo](https://github.com/openai/robosumo) with new interfaces. 
 
 Steps of installing triplesumo:
 1. Download [Mujoco200](https://www.roboti.us/download.html), rename the package into mujoco200, then extract it in 
