@@ -2,7 +2,7 @@
 ## a virtual multi-agent RL platform based on OpenAI/Gym and Mujoco. 
 <p align="center">
 ![](https://github.com/niart/triplesumo/blob/5aea698826bd43a1afe0cbc8df33fb350a847333/25_35.gif)
-<\p>   
+</p>   
 
 #### This game is introduced in publication [Learning Cooperative Behaviours in Adversarial Multi-agent Systems](https://link.springer.com/chapter/10.1007/978-3-031-15908-4_15)([full text](https://drive.google.com/file/d/1gAvAhV5qtRpQqhONvBASjzIKGk6CeWje/view?usp=sharing)).
 A live demo of this game can be found in **[This Video](https://www.youtube.com/watch?v=qSSW6TypXdQ&t=100s)**. 
