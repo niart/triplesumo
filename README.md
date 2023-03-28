@@ -1,4 +1,4 @@
-# TripleSumo, 
+# TripleSumo:
 ## a virtual multi-agent RL platform based on OpenAI/Gym and Mujoco. 
 ![](https://github.com/niart/triplesumo/blob/5aea698826bd43a1afe0cbc8df33fb350a847333/25_35.gif)
 
