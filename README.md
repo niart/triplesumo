@@ -27,10 +27,8 @@ Steps of installing triplesumo:
 7. If you meet error ```Creating window glfw ... ERROR: GLEW initalization error: Missing GL version```, you may add ```export LD_PRELOAD=/usr/lib/x86_64-linux-gnu/libGLEW.so``` to ```~/.bashrc```, then ```source ~/.bashrc```. 
 
 key algorithm:
-
-The reward function is in triant.py
-
-The training algorithm is DDPG4.py in "train bug"
+The reward function is in gym/envs/mojuco/triant.py
+The training algorithm is in train_bug/DDPG4.py
 
 If you want to cite this game:
 ```
@@ -38,20 +36,19 @@ If you want to cite this game:
   howpublished = {Wang, N., Das, G.P., Millard, A.G. (2022). Learning Cooperative Behaviours in Adversarial Multi-agent Systems. In: Pacheco-Gutierrez, S., Cryer, A., Caliskanelli, I., Tugal, H., Skilton, R. (eds) Towards Autonomous Robotic Systems. TAROS 2022. Lecture Notes in Computer Science(), vol 13546. Springer, Cham. https://doi.org/10.1007/978-3-031-15908-4_15} 
 ```  
 
-An overview of TripleSumo game:
+An overview of TripleSumo interface:
 
 <img src="https://github.com/niart/triplesumo/blob/main/triple.png" width=50% height=50%>
 
-Train the newly added agent with DDPG:
+Rewards along training the newly added agent with DDPG:
 
 <img src="https://github.com/niart/triplesumo/blob/main/3rewards.png" width=50% height=50%>
 
-Wining rate of the team during training and testing:
+Wining rate of the team(red+blue) during training and testing:
 
 <img src="https://github.com/niart/triplesumo/blob/main/hybrid_rate.png" width=50% height=50%>
 
-Steps needed to win:
-
+Steps the team needed to win:
 
 <img src="https://github.com/niart/triplesumo/blob/main/steps.png" width=50% height=50%>
 
