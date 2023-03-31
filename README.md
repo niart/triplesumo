@@ -7,12 +7,9 @@
 #### This game is introduced in publication [Learning Cooperative Behaviours in Adversarial Multi-agent Systems](https://link.springer.com/chapter/10.1007/978-3-031-15908-4_15) ([full text](https://drive.google.com/file/d/1gAvAhV5qtRpQqhONvBASjzIKGk6CeWje/view?usp=sharing)). This game aims to establish a virtual environment for intestivating multi-agent cooperation in physical contact-rich adversarial environment, with reinforcement learning interface ported to OpenAI/Gym. In this game, two weak players (either smaller in size or weaker in contact force) are supposed to team up and play against a strong player in sumo game. 
 
 Demo of results step by step:
-
-The result **[after training the green agent for 3000 epochs](https://www.youtube.com/watch?v=YWFp8jZACuc&t=11s)**;
-
-The result **[after training both the green and red agents for fighting](https://www.youtube.com/watch?v=VxYpkmswaWs)**; 
-
-The result **[after training the blue agent to join the ongoing game](https://www.youtube.com/watch?v=qSSW6TypXdQ&t=100s)**. 
+1. The result **[after training the green agent for 3000 epochs](https://www.youtube.com/watch?v=YWFp8jZACuc&t=11s)**;
+2. The result **[after training both the green and red agents for fighting](https://www.youtube.com/watch?v=VxYpkmswaWs)**; 
+3. The result **[after training the blue agent to join the ongoing game](https://www.youtube.com/watch?v=qSSW6TypXdQ&t=100s)**. 
 
 You're welcome to visit the **[author's Youtube page](https://www.youtube.com/@intelligentautonomoussyste5467/videos)** to find more about her work. Contact her at **niwang.cs@gmail.com** if you have inquiry.
 
